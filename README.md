@@ -1,4 +1,47 @@
-## Hi there 👋
+## Olá, eu sou o Maykon 👋
+
+Sou estudante de tecnologia e desenvolvedor em formação, criando projetos práticos com foco em sites, sistemas web e soluções para negócios locais.
+
+Atualmente estou desenvolvendo projetos com HTML, CSS, JavaScript, Git, GitHub e deploy web.
+
+## 🚀 Tecnologias que estou estudando e utilizando
+
+- HTML5
+- CSS3
+- JavaScript
+- Java
+- Git e GitHub
+- MySQL
+- Responsividade
+- Deploy de sites
+
+## 💼 Projetos em destaque
+
+### Landing Page MSG Turismo
+Landing page profissional desenvolvida para uma empresa de turismo, com foco em apresentação de serviços, chamadas para ação e contato via WhatsApp.
+
+Tecnologias usadas: HTML, CSS e JavaScript.
+
+🔗 Em breve: https://msg-transfer-turismo.vercel.app
+📁 Repositório: msg-transfer-turismo
+
+### Calculadora AFK
+Projeto de calculadora desenvolvido para praticar lógica de programação e manipulação de interface.
+
+Tecnologias usadas: HTML, CSS e JavaScript.
+
+## 📚 Atualmente aprendendo
+
+- Desenvolvimento front-end
+- Banco de dados com MySQL
+- Boas práticas de versionamento
+- Criação de portfólio profissional
+- Deploy de aplicações web
+
+## 📫 Contato
+
+- Email: maykonpereira460@gmail.com
+- GitHub: [MaykonMSP](https://github.com/MaykonMSP)
 
 <!--
 **MaykonMSP/MaykonMSP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
