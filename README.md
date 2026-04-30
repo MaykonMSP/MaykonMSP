@@ -22,7 +22,7 @@ Landing page profissional desenvolvida para uma empresa de turismo, com foco em 
 
 Tecnologias usadas: HTML, CSS e JavaScript.
 
-🔗 Em breve: https://msg-transfer-turismo.vercel.app
+🔗Site MSG: https://msg-transfer-turismo.vercel.app
 📁 Repositório: msg-transfer-turismo
 
 ### Calculadora AFK
