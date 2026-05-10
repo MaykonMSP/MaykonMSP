@@ -4,16 +4,13 @@ Sou estudante de tecnologia e desenvolvedor em formação, criando projetos prá
 
 Atualmente estou desenvolvendo projetos com HTML, CSS, JavaScript, Git, GitHub e deploy web.
 
-## 🚀 Tecnologias que estou estudando e utilizando
+## 🛠️ Tecnologias que estou estudando/usando
 
-- HTML5
-- CSS3
-- JavaScript
-- Java
-- Git e GitHub
-- MySQL
-- Responsividade
-- Deploy de sites
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,html,css,java,mysql,spring,git,github" />
+
+</div>
 
 ## 💼 Projetos em destaque
 
