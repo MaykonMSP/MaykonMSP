@@ -45,7 +45,7 @@ Sistema desenvolvido para auxiliar no gerenciamento de clientes, seguradoras e a
 **Tecnologias usadas:** Java, Spring Boot, PostgreSQL, Flyway, Spring Security, Swagger/OpenAPI e JUnit.
 
 📁 **Repositório:** [carteira-clientes-seguradora](https://github.com/MaykonMSP/carteira-clientes-seguradora)
-
+🔗 **Site:** Em breve 
 ---
 
 ### 🧮 Calculadora AFK
