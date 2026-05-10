@@ -17,19 +17,44 @@ Atualmente estou desenvolvendo projetos com HTML, CSS, JavaScript, Git, GitHub e
 
 ## 💼 Projetos em destaque
 
-### Landing Page MSG Turismo
+### 🌐 Landing Page MSG Turismo
+
 Landing page profissional desenvolvida para uma empresa de turismo, com foco em apresentação de serviços, chamadas para ação e contato via WhatsApp.
 
-Tecnologias usadas: HTML, CSS e JavaScript.
+**Tecnologias usadas:** HTML, CSS e JavaScript.
 
-🔗Site MSG: https://msg-transfer-turismo.vercel.app
-📁 Repositório: msg-transfer-turismo
+🔗 **Site:** https://msg-transfer-turismo.vercel.app  
+📁 **Repositório:** `msg-transfer-turismo`
 
-### Calculadora AFK
+---
+
+### 🏥 Clínica Agendamento Backend
+
+API RESTful desenvolvida para gerenciamento de uma clínica médica, com funcionalidades como cadastro de pacientes, médicos, planos de saúde, agendamento de consultas, registro de pagamentos, emissão de receitas médicas, resumo financeiro mensal e backup do banco de dados.
+
+**Tecnologias usadas:** Node.js, Express.js, MySQL, JavaScript, SQL e Bash.
+
+📁 **Repositório:** [clinica-agendamento-backend](https://github.com/MaykonMSP/clinica-agendamento-backend)
+
+---
+
+### 🛡️ Carteira de Clientes para Seguradora
+
+Sistema desenvolvido para auxiliar no gerenciamento de clientes, seguradoras e apólices, com foco em organização de informações, controle de vigência, vencimentos e renovações.
+
+**Tecnologias usadas:** Java, Spring Boot, PostgreSQL, Flyway, Spring Security, Swagger/OpenAPI e JUnit.
+
+📁 **Repositório:** [carteira-clientes-seguradora](https://github.com/MaykonMSP/carteira-clientes-seguradora)
+
+---
+
+### 🧮 Calculadora AFK
+
 Projeto de calculadora desenvolvido para praticar lógica de programação e manipulação de interface.
 
-Tecnologias usadas: HTML, CSS e JavaScript.
+**Tecnologias usadas:** HTML, CSS e JavaScript.
 
+---
 ## 📚 Atualmente aprendendo
 
 - Desenvolvimento front-end
