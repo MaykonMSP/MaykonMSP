@@ -65,9 +65,7 @@ Projeto de calculadora desenvolvido para praticar lógica de programação e man
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/maykon-pereira-dev
-
-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)] www.linkedin.com/in/maykon-pereira-dev
 - Email: maykonpereira460@gmail.com
 - GitHub: [MaykonMSP](https://github.com/MaykonMSP)
 
