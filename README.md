@@ -21,8 +21,7 @@ Landing page profissional desenvolvida para uma empresa de turismo, com foco em 
 **Tecnologias usadas:** HTML, CSS e JavaScript.
 
 🔗 **Site:** https://msg-transfer-turismo.vercel.app  
-📁 **Repositório:** `msg-transfer-turismo`
-
+📁 **Repositório:** [msg-transfer-turismo](https://github.com/MaykonMSP/carteira-clientes-seguradora)
 ---
 
 ### 🏥 Clínica Agendamento Backend
