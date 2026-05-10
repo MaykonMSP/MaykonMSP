@@ -46,6 +46,7 @@ Sistema desenvolvido para auxiliar no gerenciamento de clientes, seguradoras e a
 
 🔗 **Site:** Em breve  
 📁 **Repositório:** [carteira-clientes-seguradora](https://github.com/MaykonMSP/carteira-clientes-seguradora)
+
 ---
 
 ### 🧮 Calculadora AFK
